@@ -11,7 +11,7 @@ import { TiTick } from 'react-icons/ti';
 import { GiLouvrePyramid } from 'react-icons/gi';
 import { GrLocation } from 'react-icons/gr';
 import avatar from './avatar.jpg';
-import avatar2 from './avatar2.jpg';
+import avatar2 from './avatar2.jpeg';
 import avatar3 from './avatar3.png';
 import avatar4 from './avatar4.jpg';
 import product1 from './product1.jpg';
